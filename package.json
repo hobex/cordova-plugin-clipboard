@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lycwed/cordova-plugin-clipboard.git"
+    "url": "git+https://github.com/hobex/cordova-plugin-clipboard.git"
   },
   "keywords": [
     "clipboard",
@@ -33,8 +33,5 @@
   ],
   "author": "lycwed",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lycwed/cordova-plugin-clipboard/issues"
-  },
-  "homepage": "https://github.com/lycwed/cordova-plugin-clipboard#readme"
+  "homepage": "github.com/hobex/cordova-plugin-clipboard"
 }
