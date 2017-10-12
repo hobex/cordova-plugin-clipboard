@@ -11,10 +11,6 @@
       "windows"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hobex/cordova-plugin-clipboard.git"
-  },
   "keywords": [
     "clipboard",
     "copy",
